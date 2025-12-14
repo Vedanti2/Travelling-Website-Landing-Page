@@ -29,8 +29,8 @@ This project was built to:
 ---
 
  📸 Preview
-🔗 Live Preview / Repository:  
-https://github.com/Vedanti2/Travelling-Website-Landing-Page
+🔗 Live Preview:  
+https://vedanti2.github.io/Travelling-Website-Landing-Page/
 
 ---
 
